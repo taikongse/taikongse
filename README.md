@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'am Tanapon Sae-Ung (Tai Kong)
+## I am Tanapon Sae-Ung (Tai Kong)
 I am a driven and curious software engineer with a diverse range of interests and experience 🌱
 ```
 💻 Software Engineer based in Bangkok, Thailand
