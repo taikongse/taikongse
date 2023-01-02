@@ -6,8 +6,9 @@ I am a driven and curious software engineer with a diverse range of interests an
 ```
 💻 Software Engineer based in Bangkok, Thailand
 📞 Contact: 095-952-9936 | 📧 Email: atai.tanapon@gmail.com
-🌐 Portfolio: taikongse.netlify.app | 🔗 LinkedIn | 🐙 GitHub
 ```
+🌐 Portfolio: [taikongse.netlify.app](https://taikongse.netlify.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/tanapon-saeung/) | 🐙 [GitHub](https://github.com/taikongse)
+
 ### Tech Stack 🛠
 ```
 🌐 Languages: Thai (native), English (professional working proficiency)
