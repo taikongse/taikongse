@@ -13,7 +13,7 @@ I am a driven and curious software engineer with a diverse range of interests an
 ```
 🌐 Languages: Thai (native), English (professional working proficiency)
 
-🖥️ Frontend: JavaScript, React.js, Vue.js, HTML5, CSS, Bootstrap, Tailwind
+🖥️ Frontend: JavaScript, React.js, Vue.js, Flutter, HTML5, CSS, Bootstrap, Tailwind
 
 🗄 Backend: Node JS, Express
 
